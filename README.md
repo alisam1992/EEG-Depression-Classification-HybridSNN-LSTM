@@ -11,7 +11,8 @@ Sam, A., Boostani, R., Hashempour, S., Taghavi, M., & Sanei, S. (2023).
 Depression identification using EEG signals via a hybrid of LSTM and spiking neural networks.
 IEEE Transactions on Neural Systems and Rehabilitation Engineering, 31, 4725–4737.
 DOI: 10.1109/TNSRE.2023.3336467
-
+Zendo:
+https://doi.org/10.5281/zenodo.16888569
 ---
 
 📖 Overview
