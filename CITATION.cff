@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+authors:
+  - family-names: "Sam"
+    given-names: "Ali"
+  - family-names: "Boostani"
+    given-names: "Reza"
+  - family-names: "Hashempour"
+    given-names: "Saeed"
+  - family-names: "Taghavi"
+    given-names: "Mohammad"
+  - family-names: "Sanei"
+    given-names: "Saied"
+title: "Depression identification using EEG signals via a hybrid of LSTM and spiking neural networks"
+journal: "IEEE Transactions on Neural Systems and Rehabilitation Engineering"
+volume: "31"
+pages: "4725-4737"
+year: 2023
+doi: "10.1109/TNSRE.2023.3336467"
+url: "https://doi.org/10.1109/TNSRE.2023.3336467"
